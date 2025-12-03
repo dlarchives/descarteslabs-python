@@ -16,13 +16,13 @@
 
 from setuptools import setup
 
-version = "4.0.0post1"
+version = "4.0.0post2"
 
 def do_setup():
     setup(
         name="descarteslabs",
-        description="Discontinued. Please use earthone-earthdaily instead.",
-        long_description="Discontinued. Please use earthone-earthdaily instead.",
+        description="Discontinued. Please use earthdaily-earthone instead.",
+        long_description="Discontinued. Please use earthdaily-earthone instead.",
         author="EarthDaily Analytics",
         author_email="support@earthdaily.com",
         url="https://github.com/earthdaily/earthone-python",
